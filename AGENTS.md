@@ -6,12 +6,11 @@ This file provides guidance to coding agents when working with this repository.
 
 ```bash
 pnpm dev        # Start dev server with HMR
+pnpm test       # Run tests with Vitest
 pnpm lint       # Run ESLint
 pnpm build      # Type-check + bundle for production
 pnpm preview    # Preview production build locally
 ```
-
-No test runner is configured.
 
 ## Architecture
 
